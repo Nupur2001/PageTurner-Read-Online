@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --logoColor: #49a08c;
+    --sc: #3e81a3;
+    --hoverGreen: #00a79d;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.colorChange {
+    color: var(--logoColor);
+}
+
+.btnChange {
+    background-color: var(--logoColor);
+}
+
+.btnChange:hover {
+    background-color: var(--hoverGreen);
+}
+
+.blob {
+    border-radius: 40% 20% 30% 10%;
+}
+
+/* Ensure a gap between cards and alignment */
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+    /* Centers the cards horizontally */
+    margin-bottom: 3rem;
+    /* Adds space between cards and footer */
+}
+
+/* Card Styles */
+.card {
+    background-color: #fff;
+    width: 100%;
+    max-width: 320px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Image Styles */
+.card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    /* Ensures image covers the space without distortion */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+/* Card Body Styles */
+.card-body {
+    padding: 1rem;
+    flex-grow: 1;
+    /* Allows the body to grow and take available space */
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-description {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+/* Actions (Badges) */
+.card-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+/* Card Footer */
+.card-details {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    border-top: 1px solid #f0f0f0;
+}
+
+.card-details .btn {
+    background-color: var(--logoColor);
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.card-details .btn:hover {
+    background-color: var(--hoverGreen);
+}
+
+.tickIcon {
+    background-color: var(--logoColor);
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    background-color: var(--logoColor);
+    /* Custom background color */
+    border-radius: 50%;
+    /* Makes it a circle */
+    color: #fff;
+    /* Arrow color */
+    transition: background-color 0.3s ease;
+}
+
+.icon-container:hover {
+    background-color: var(--hoverGreen);
+    /* Custom hover color */
+}
+
+.heading{
+    padding: 2rem;
+    margin-top: -2rem;
+}
+.pageHeading{
+    padding: 2rem;
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "category": "Fiction",
+    "title": "Fangirl",
+    "author": "Rainbow Rowell",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "360",
+    "description": "A heartfelt Young Adult Fiction story about a college freshman finding her voice through fanfiction.",
+    "detailedDescription": "Rainbow Rowell's 'Fangirl' delves into the life of Cath, an introverted college freshman navigating new friendships, sibling dynamics, and her love for writing fanfiction. As Cath faces challenges adapting to college life, she finds solace in her fanfiction world but must also confront personal growth and new opportunities. The book beautifully balances humor and emotion, capturing the journey of self-discovery and creative passion. It’s a must-read for fans of relatable characters and heartfelt storytelling."
+  },
+  {
+    "id": 2,
+    "category": "Fiction",
+    "title": "Before the Coffee Gets Cold",
+    "author": "Toshikazu Kawaguchi",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "Free",
+    "description": "A thought-provoking Contemporary Fiction story of four visitors in a Tokyo café who time travel to confront their past.",
+    "detailedDescription": "Toshikazu Kawaguchi's 'Before the Coffee Gets Cold' is set in a quaint Tokyo café where visitors can time travel—but only under strict rules, like returning before the coffee gets cold. Through the stories of four characters, the novel explores themes of regret, love, and the power of reconciliation. Each visitor embarks on a poignant journey to confront past choices, uncover truths, and find closure. The novel combines magical realism with deeply emotional storytelling, making it a touching and introspective read."
+  },
+  {
+    "id": 3,
+    "category": "Self-Help",
+    "title": "Think Like A Monk",
+    "author": "Jay Shetty",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "399",
+    "description": "A Self-Help book sharing monk-inspired wisdom for living a meaningful life, focusing on mindfulness and purpose.",
+    "detailedDescription": "Jay Shetty's 'Think Like A Monk' distills his experiences as a monk into practical wisdom for modern life. The book offers insights on overcoming negativity, reducing stress, and finding purpose. Shetty uses relatable anecdotes, meditative practices, and actionable advice to help readers lead a more fulfilling life. Covering topics like gratitude, relationships, and resilience, the book is a guide for anyone seeking clarity and inner peace."
+  },
+  {
+    "id": 4,
+    "category": "Romance",
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "399",
+    "description": "A moving Romantic story about love, loss, and self-discovery from the Romance category.",
+    "detailedDescription": "John Green's 'Looking for Alaska' is a captivating coming-of-age novel that explores themes of love, loss, and the quest for meaning. The story follows Miles 'Pudge' Halter as he attends a boarding school and becomes infatuated with the enigmatic Alaska Young. Through tragedy and self-reflection, Pudge learns about the complexities of human connections and the significance of living in the moment. The novel is a heartfelt exploration of adolescence and the enduring impact of relationships."
+  },
+  {
+    "id": 5,
+    "category": "Fiction",
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "599",
+    "description": "A powerful Historical Fiction story about friendship and survival in war-torn Afghanistan, depicting women's strength and resilience.",
+    "detailedDescription": "Khaled Hosseini's 'A Thousand Splendid Suns' is a poignant tale of two women, Mariam and Laila, whose lives intertwine amid the tumult of Afghanistan's history. The novel portrays their struggles and resilience in the face of oppression, loss, and war. Through their bond, the story highlights the power of friendship and the indomitable strength of women. Hosseini's vivid storytelling and emotional depth make this a powerful and unforgettable read."
+  },
+
+
+  {
+    "id": 6,
+    "category": "Fiction",
+    "title": "Blue Sister",
+    "author": "Coco Mellors",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "332",
+    "description": "A Contemporary Fiction novel about the complexities of friendships and family bonds, exploring modern life's nuances.",
+    "detailedDescription": "Coco Mellors' 'Blue Sister' is an introspective look into the tangled web of relationships and the emotional challenges of modern life. The novel dives into the bonds of friendship and family, exploring themes of loyalty, betrayal, and forgiveness. With richly drawn characters and poignant storytelling, 'Blue Sister' paints an authentic picture of human connections and their intricate complexities."
+  },
+  {
+    "id": 7,
+    "category": "Mystery & Thriller",
+    "title": "Bangalore Detectives Club",
+    "author": "Harini Nagendra",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "499",
+    "description": "A gripping Mystery novel set in 1920s Bangalore, featuring a female detective solving intriguing crimes.",
+    "detailedDescription": "Set in 1920s Bangalore, Harini Nagendra's 'Bangalore Detectives Club' follows Kaveri, a young and astute female detective, as she unravels a series of crimes. With vivid descriptions of colonial Bangalore and a captivating plot, the novel masterfully blends mystery with cultural and historical insights, offering readers a thrilling and immersive experience."
+  },
+  {
+    "id": 8,
+    "category": "Mystery & Thriller",
+    "title": "Murder Under Red Moon",
+    "author": "Harini Nagendra",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "309",
+    "description": "A captivating Mystery novel about a murder in a remote village, blending crime-solving with rich cultural detail.",
+    "detailedDescription": "'Murder Under Red Moon' by Harini Nagendra is a riveting tale of intrigue and suspense. When a mysterious murder disrupts the peace of a small village, Kaveri, a clever and determined detective, steps in to uncover the truth. The novel intricately weaves crime-solving with rich cultural and historical nuances, creating a compelling narrative that keeps readers on the edge of their seats."
+  },
+  {
+    "id": 9,
+    "category": "Children's Stories",
+    "title": "Merry Christmas, Geronimo",
+    "author": "Elisabetta Dami",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "Free",
+    "description": "A delightful Children's Fiction story about Geronimo's Christmas adventures, full of humor and heartwarming moments.",
+    "detailedDescription": "'Merry Christmas, Geronimo' by Elisabetta Dami is a heartwarming tale of holiday cheer and adventure. Follow Geronimo Stilton, the beloved mouse journalist, as he navigates hilarious mishaps and touching moments to bring the spirit of Christmas to his friends and family. Packed with humor and festive magic, this story is perfect for children and readers young at heart."
+  },
+  {
+    "id": 10,
+    "category": "Self-Help",
+    "title": "I Want To Die But I Want To Eat Tteokbokki",
+    "author": "Baek Sehee",
+    "image": "https://images.pexels.com/photos/1329571/pexels-photo-1329571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": "Free",
+    "description": "A deeply emotional Self-Help book exploring depression, therapy, and finding small joys in life, with a unique focus on Korean culture.",
+    "detailedDescription": "Baek Sehee's 'I Want To Die But I Want To Eat Tteokbokki' is a raw and honest account of mental health struggles, depression, and the search for happiness. Through candid conversations with her therapist, the author explores themes of self-acceptance, resilience, and the importance of finding small joys in everyday life. Set against the backdrop of Korean culture, this book offers readers both comfort and a deeper understanding of their emotions."
+  }
+]
+  
+  

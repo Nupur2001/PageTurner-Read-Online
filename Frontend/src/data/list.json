@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "category": "Fiction",
+        "description": "Explore imaginative stories that transport you to different worlds, from dramatic to adventurous.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "18+",
+        "available_languages": ["English", "Spanish"]
+    },
+    {
+        "id": 2,
+        "category": "Children's Stories",
+        "description": "Delightful tales for young readers, with lessons in friendship, courage, and kindness.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "3-7 years",
+        "available_languages": ["English", "French"]
+    },
+    {
+        "id": 3,
+        "category": "Self-Help",
+        "description": "Books offering valuable advice to improve mental well-being, motivation, and life skills.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "14+",
+        "available_languages": ["English", "German"]
+    },
+    {
+        "id": 4,
+        "category": "Historical Fiction",
+        "description": "Immerse yourself in stories set in historical settings, blending real events with captivating narratives.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "12+",
+        "available_languages": ["English", "Italian"]
+    },
+    {
+        "id": 5,
+        "category": "Romance",
+        "description": "Heartwarming love stories that tug at the heartstrings, from passionate romance to bittersweet endings.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "18+",
+        "available_languages": ["English", "Spanish"]
+    },
+    {
+        "id": 6,
+        "category": "Science Fiction",
+        "description": "Step into futuristic worlds with advanced technology, alien encounters, and mind-bending concepts.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "16+",
+        "available_languages": ["English", "French"]
+    },
+    {
+        "id": 7,
+        "category": "Fantasy",
+        "description": "Enchanting tales of magic, mythical creatures, and epic quests in worlds beyond imagination.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "12+",
+        "available_languages": ["English", "German"]
+    },
+    {
+        "id": 8,
+        "category": "Mystery & Thriller",
+        "description": "Suspenseful and thrilling stories full of twists and turns, perfect for those who love solving puzzles.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "18+",
+        "available_languages": ["English", "Spanish"]
+    },
+    {
+        "id": 9,
+        "category": "Biography & Memoir",
+        "description": "Personal stories and experiences from influential people, offering inspiration and insight into their lives.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "18+",
+        "available_languages": ["English", "French"]
+    },
+    {
+        "id": 10,
+        "category": "Non-Fiction",
+        "description": "Books based on real events, ideas, and facts that provide knowledge and broaden understanding of the world.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "18+",
+        "available_languages": ["English", "Italian"]
+    },
+    {
+        "id": 11,
+        "category": "Young Adult",
+        "description": "Relatable stories for teens and young adults, dealing with growing up, friendship, and self-discovery.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "12-18 years",
+        "available_languages": ["English", "Spanish"]
+    },
+    {
+        "id": 12,
+        "category": "Cookbooks",
+        "description": "Recipe collections for food lovers, featuring everything from easy meals to gourmet cuisine.",
+        "image": "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "age_group": "All Ages",
+        "available_languages": ["English", "French"]
+    }
+]
