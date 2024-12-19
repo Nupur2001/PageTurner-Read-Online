@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "PageTurner: A MERN stack-based online bookstore offering user authentication, a dynamic product catalog, shopping cart, and secure payment integration.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nupur2001/PageTurner.git"
+  },
+  "author": "Nupur Sikka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nupur2001/PageTurner/issues"
+  },
+  "homepage": "https://github.com/Nupur2001/PageTurner#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.7"
+  }
+}
